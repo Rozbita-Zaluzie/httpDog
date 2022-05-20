@@ -2,7 +2,7 @@
 
 ## HTTP Errors with so many codes
 
--                                           Todo
+-                                                   Todo
 - **API Endpoints (Curently working)**
 - Web Server 
 - Images 
