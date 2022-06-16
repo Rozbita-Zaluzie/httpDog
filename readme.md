@@ -1,9 +1,10 @@
-## ***HTTP DOG***
+# ***HTTP DOG***
 
-## HTTP Errors with so many codes
+### HTTP Errors with lot of codes
 
--                                                   Todo
-- **API Endpoints (Curently working)**
-- Web Server 
-- Images 
-- Publish
+
+###### TODO
+- [ ] **API Endpoints (Curently working)**
+- [x] Web Server 
+- [x] Images 
+- [x] Publish
